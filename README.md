@@ -1,1 +1,1 @@
-# postgres-docker
+# adminer-docker
